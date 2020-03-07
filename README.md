@@ -1,0 +1,2 @@
+# Arturia_Spark_Controller_reverse_Engineering
+I'd love to keep on using the hardware even after the Spark plug-ins and/or standalone will eventually get completely obsolete by lack of support from Arturia who dropped it all together. In the Bitwig scripting environement,  both Sparks would make murderous  dedicated Drum Controllers. Same in Ableton Live etc... Therefore,  I'm looking for help to complete the reverse engineering of both controller . 
